@@ -36,9 +36,9 @@ extract the zip
 
 open powershell and type in:
 
-cd Desktop
+cd Downloads
 
-cd ZeroDay-Dupe
+cd ZeroDay-Dupe-main
 
 Install dependencies:
 
