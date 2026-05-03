@@ -32,7 +32,7 @@ Install python for Windows
 
 Click on the green code button and download and wonload the zip
 
-extract the zip
+extract the zip to the Downloads folder
 
 open powershell and type in:
 
