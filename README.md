@@ -1,10 +1,10 @@
-# ZeroDay Item Duplicator for Donut SMP
+# ZeroDay Item Duplicator for Minecraft Servers
 
 
 
 
 
-# 🚀 Advanced Item Duplication Tool for Donut SMP
+# 🚀 Advanced Item Duplication Tool for Minecraft Servers
 ZeroDay is a powerful item duplication tool designed specifically for Donut SMP players who want to gain an advantage by duplicating items in their chests.
 
 # ✨ Key Features
@@ -18,8 +18,8 @@ Bypass Protection: Advanced algorithms to bypass server anti-cheat
 Real-time Preview: See items before duplication
 Backup System: Creates backups of original chest contents
 
-# 🎮 Donut SMP Compatibility
-ZeroDay is specifically optimized for Donut SMP servers with features including:
+# 🎮 Minecraft Servers Compatibility
+ZeroDay is specifically optimized for Minecraft Servers with features including:
 
 Custom chest interaction protocols
 Server packet manipulation
