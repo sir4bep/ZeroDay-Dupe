@@ -30,17 +30,19 @@ Compatibility with all chest types
 # 📥 Installation
 Install python for Windows
 
-Install Git for Windows
+Click on the green code button and download and wonload the zip
 
-Clone the repository:
+extract the zip
 
-git clone https://github.com/ZeroDay-Dev/ZeroDay-Dupe.git
+open powershell and type in:
+
+cd Desktop
 
 cd ZeroDay-Dupe
 
 Install dependencies:
 
-pip install -r requirements.txt
+python -m pip install requirements.txt
 
 Run the application:
 
